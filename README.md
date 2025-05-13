@@ -95,16 +95,6 @@ An open-source AI system based on Spring-Alibaba-AI that simulates a full techni
 - Code evaluation using AST parsing and LLM-based review
 - Automated resume generation and personalized feedback
 
-## 10. ResumeGPT
-**GitHub Repository:** [Aillian/ResumeGPT](https://github.com/Aillian/ResumeGPT)
-
-A Python pipeline for extracting structured information from PDF resumes and CVs using OCR technology and GPT models (3.5 and 4).
-
-**Key Features:**
-- Automatic extraction of 23 data points from resumes including education, experience, and skills
-- Smart fallback between GPT-3.5 and GPT-4 based on token requirements
-- Structured output in Excel-friendly format for easy analysis
-
 ## 11. Resume Matcher
 **GitHub Repository:** [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
 
