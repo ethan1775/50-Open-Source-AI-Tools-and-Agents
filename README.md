@@ -197,5 +197,16 @@ A node-based flow building engine that helps developers quickly create workflows
 - React-based architecture with TypeScript for type safety
 - Simple integration with npm packages for quick implementation
 
+## 20. DeepChat
+**GitHub Repository:** [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat)
+
+A smart assistant that connects powerful AI to your personal world, offering a comprehensive chat interface with advanced MCP support, search integration, and AI model compatibility.
+
+**Key Features:**
+- Multi-provider support for various LLM platforms including OpenAI, Gemini, Ollama, and more
+- Advanced MCP implementation with rich debugging features and built-in Node.js runtime
+- Robust search extension capabilities with multiple search engine integrations
+- Multi-platform support (Windows, macOS, Linux) with privacy-focused design
+
 
 
