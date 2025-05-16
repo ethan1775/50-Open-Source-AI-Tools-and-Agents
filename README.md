@@ -6,7 +6,7 @@
 A simple MCP server that sends emails using Resend's API, allowing user to compose and send emails directly without copying and pasting content.
 
 **Key Features:**
-- Send plain text and HTML emails
+- Send plain text and HTML emails.
 - Schedule emails for future delivery 
 - Add CC and BCC recipients
 - Configure reply-to addresses
